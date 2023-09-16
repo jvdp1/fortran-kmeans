@@ -1,0 +1,7 @@
+name = "fortran-kmeans"
+version = "0.0.1"
+license = "MIT"
+author = "Tao Li"
+maintainer = "Jeremie Vandenplas"
+copyright = "Tao Li"
+
